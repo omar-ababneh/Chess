@@ -1,0 +1,9 @@
+D:\Desktop\omar\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+D:\Desktop\omar\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+D:\Desktop\omar\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+D:\Desktop\omar\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+D:\Desktop\omar\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Desktop\omar\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\Desktop\omar\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+D:\Desktop\omar\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+D:\Desktop\omar\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
